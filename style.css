@@ -168,7 +168,7 @@ nav ul li a {
 }
 @media (max-width: 991px) {
     .card{
-      min-width: 400px;
+      min-width: 370px;
        color: green;
     }
 }
